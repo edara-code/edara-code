@@ -32,7 +32,6 @@ I'm working on evaluating AI systems and the data behind them: designing rubrics
 | 📊 **Metrics that mean something** | Cohen's kappa for human–LLM agreement (including the kappa paradox), error rates, and checking that findings hold on larger, harder samples |
 | 📚 **Grounded, factual responses** | Groundedness, citation accuracy, and hallucination rate for retrieval-based (RAG) answers |
 | 🎙️ **Conversational & speech quality** | Intent, transcription, and speaker annotation, plus speech recognition accuracy |
-| 🛡️ **Safety & robustness** | Red teaming, prompt injection testing, and safety regression tests |
 | ✅ **Quality gates** | Golden sets, sampling audits, annotator scorecards, and CI quality gates (GitHub Actions) that block regressions before release |
 
 ---
