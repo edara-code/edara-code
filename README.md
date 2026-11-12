@@ -14,11 +14,11 @@
 
 ---
 
-### 🧑‍💻 About me
+### 👩‍💻 About me
 
 I'm working on evaluating AI systems and the data behind them: designing rubrics and evaluation sets, collecting and checking human labels, and comparing LLM autograders with human ratings to see where they can be relied on.
 - 🎯 **Focus:** evaluating conversational AI, LLMs, and speech systems
-- 📐 **Principle:** a metric is only useful if it predicts real-world quality and people trust it
+- 💡 **Principle:** a metric is only useful if it predicts real-world quality and people trust it
 - 🔁 **Approach:** measure → diagnose failures → fix → re-measure → gate the release
 - ✍️ **Writing:** notes on evaluation and data quality on [Substack](https://substack.com/@sriedara1)
 
