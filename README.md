@@ -16,8 +16,7 @@
 
 ### 🧑‍💻 About me
 
-I work on one question: **how do we know an AI system is correct, relevant, and trustworthy?** I turn model and product behavior into clear quality signals, using well-designed rubrics, reliable evaluation sets, and automated graders that are checked against human judgment.
-
+I'm working on evaluating AI systems and the data behind them: designing rubrics and evaluation sets, collecting and checking human labels, and comparing LLM autograders with human ratings to see where they can be relied on.
 - 🎯 **Focus:** evaluating conversational AI, LLMs, and speech systems
 - 📐 **Principle:** a metric is only useful if it predicts real-world quality and people trust it
 - 🔁 **Approach:** measure → diagnose failures → fix → re-measure → gate the release
@@ -27,7 +26,7 @@ I work on one question: **how do we know an AI system is correct, relevant, and 
 
 ### 🧭 What I bring
 
-| | |
+| Area | What it involves |
 |---|---|
 | 🤖 **LLM autograders & rubrics** | Rubric design, evaluation set development, and calibrating an LLM autograder against human ratings |
 | 📊 **Metrics that mean something** | Cohen's kappa for human–LLM agreement (including the kappa paradox), error rates, and checking that findings hold on larger, harder samples |
@@ -55,13 +54,3 @@ An end-to-end lab for building trustworthy evaluation, from human annotation to 
 <a href="https://github.com/edara-code/annotation-eval-lab"><img src="https://img.shields.io/badge/View_project-4f46e5?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 <sub>Built mainly with Python and Label Studio.</sub>
-
----
-
-<div align="center">
-
-**Always happy to talk about AI evaluation, LLM judges, and what "good enough to ship" really means.**
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1e1b4b,50:4f46e5,100:0ea5e9&height=6&section=footer" />
