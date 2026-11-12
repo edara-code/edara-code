@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,100:0ea5e9&height=190&section=header&text=Hi,%20I'm%20Sri%20Edara%20👋&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20Evaluation%20%C2%B7%20Data%20Quality%20%C2%B7%20Trustworthy%20AI&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1e1b4b,50:4f46e5,100:0ea5e9&height=170&section=header&text=Sri%20Edara&fontSize=50&fontColor=ffffff&fontAlignY=42&desc=AI%20Evaluation%20%C2%B7%20LLM%20Autograders%20%C2%B7%20Data%20Quality&descAlignY=68&descSize=20&animation=fadeIn" />
 
 <div align="center">
 
@@ -58,19 +58,10 @@ An end-to-end lab for building trustworthy evaluation, from human annotation to 
 
 ---
 
-### 📊 GitHub stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=edara-code&show_icons=true&hide_border=true&theme=default&title_color=4f46e5&icon_color=0ea5e9&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edara-code&layout=compact&hide_border=true&theme=default&title_color=4f46e5" />
-</p>
-
----
-
 <div align="center">
 
 **Always happy to talk about AI evaluation, LLM judges, and what "good enough to ship" really means.**
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:4f46e5&height=110&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1e1b4b,50:4f46e5,100:0ea5e9&height=6&section=footer" />
