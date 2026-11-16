@@ -41,7 +41,7 @@ I'm working on evaluating AI systems and the data behind them: designing rubrics
 
 An end-to-end lab for building trustworthy evaluation, from human annotation to automated grading and release gates.
 
-| Layer | What it involves |
+| Layer |  What it involves |
 |---|---|
 | **Human annotation** | Image, audio/voice, text, and video labeling with clear guidelines and QA checks |
 | **Speech evaluation** | Comparing automatic transcripts with human ones (WER) |
@@ -51,16 +51,22 @@ An end-to-end lab for building trustworthy evaluation, from human annotation to 
 | **Quality framework** | Golden sets, sampling audits, annotator scorecards, and CI quality gates with GitHub Actions |
 | **Red teaming** *(separate repo)* | Find failures, fix, re-scan, and lock in regression tests |
 
-### 🚗 Featured work: [lidar-3d-annotation-eval](https://github.com/edara-code/lidar-3d-annotation-eval)
-
-3D cuboid annotation of LiDAR point clouds from driving scenes (KITTI), the kind used by autonomous vehicles and robots, evaluated against official labels.
-
-| Step | What it involves |
-|---|---|
-| **Guidelines** | Classes, box fitting, heading, ground contact, and quality checks |
-| **Annotation** | 77 cuboids across 10 frames in CVAT, using top, side, and front views |
-| **Evaluation** | 3D and bird's-eye-view IoU, recall, center, size, and heading error, by distance |
-| **Result** | 10 of 11 official cars found, 0.15 m median center error, 2° heading error |
 <a href="https://github.com/edara-code/annotation-eval-lab"><img src="https://img.shields.io/badge/View_project-4f46e5?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 <sub>Built mainly with Python and Label Studio.</sub>
+
+---
+
+### 🚗 Featured work: [lidar-3d-annotation-eval](https://github.com/edara-code/lidar-3d-annotation-eval)
+
+Hands-on 3D LiDAR annotation for autonomous driving and robotics, from labeling guidelines to evaluation against official ground truth.
+
+| Layer | What it covers |
+|---|---|
+| **Annotation guidelines** | Classes, box fitting, heading, ground contact, and quality checks |
+| **3D annotation** | Cuboid labeling of driving point clouds in CVAT, using top, side, and front views |
+| **Evaluation** | Comparing labels with official KITTI boxes: 3D IoU, recall, center, size, and heading error, by distance |
+
+<a href="https://github.com/edara-code/lidar-3d-annotation-eval"><img src="https://img.shields.io/badge/View_project-4f46e5?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+<sub>Built mainly with Python and CVAT.</sub>
