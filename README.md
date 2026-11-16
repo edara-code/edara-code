@@ -41,7 +41,7 @@ I'm working on evaluating AI systems and the data behind them: designing rubrics
 
 An end-to-end lab for building trustworthy evaluation, from human annotation to automated grading and release gates.
 
-| Layer | What it covers |
+| Layer | What it involves |
 |---|---|
 | **Human annotation** | Image, audio/voice, text, and video labeling with clear guidelines and QA checks |
 | **Speech evaluation** | Comparing automatic transcripts with human ones (WER) |
@@ -55,7 +55,7 @@ An end-to-end lab for building trustworthy evaluation, from human annotation to 
 
 3D cuboid annotation of LiDAR point clouds from driving scenes (KITTI), the kind used by autonomous vehicles and robots, evaluated against official labels.
 
-| Step | What it covers |
+| Step | What it involves |
 |---|---|
 | **Guidelines** | Classes, box fitting, heading, ground contact, and quality checks |
 | **Annotation** | 77 cuboids across 10 frames in CVAT, using top, side, and front views |
