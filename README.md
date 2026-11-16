@@ -61,7 +61,7 @@ An end-to-end lab for building trustworthy evaluation, from human annotation to 
 
 Hands-on 3D LiDAR annotation for autonomous driving and robotics, from labeling guidelines to evaluation against official ground truth.
 
-| Layer | What it covers |
+| Layer |  What it involves |
 |---|---|
 | **Annotation guidelines** | Classes, box fitting, heading, ground contact, and quality checks |
 | **3D annotation** | Cuboid labeling of driving point clouds in CVAT, using top, side, and front views |
