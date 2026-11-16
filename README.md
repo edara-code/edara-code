@@ -24,7 +24,7 @@ I'm working on evaluating AI systems and the data behind them: designing rubrics
 
 ---
 
-### 🧭 What I bring
+### 🧭 Skills & expertise
 
 | Area | What it involves |
 |---|---|
