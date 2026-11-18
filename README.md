@@ -66,6 +66,7 @@ Hands-on 3D LiDAR annotation for autonomous driving and robotics, from labeling 
 | **Annotation guidelines** | Classes, box fitting, heading, ground contact, and quality checks |
 | **3D annotation** | Cuboid labeling of driving point clouds in CVAT, using top, side, and front views |
 | **Evaluation** | Comparing labels with official KITTI boxes: 3D IoU, recall, center, size, and heading error, by distance |
+| **Results:** | 10 of 11 official vehicles found (90.9%) · median center error 0.15 m · heading error ≈ 2° · accuracy drops with distance (3D IoU 0.82 within 20 m → 0.50 beyond 40 m) |
 
 <a href="https://github.com/edara-code/lidar-3d-annotation-eval"><img src="https://img.shields.io/badge/View_project-4f46e5?style=for-the-badge&logo=github&logoColor=white" /></a>
 
